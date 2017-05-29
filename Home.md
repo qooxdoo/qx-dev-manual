@@ -1,8 +1,8 @@
 # qooxdoo developer manual
 
-# About #
+## About
 
-This manual is a technical manual for %{qooxdoo} core developers. Its scope is
+This manual is a technical manual for qooxdoo core developers. Its scope is
 how certain things within the project - both code and procedures - are
 implemented, so that another (or a new) core developer can get informed about
 these things easily, when code and comments are not enough. So the information
