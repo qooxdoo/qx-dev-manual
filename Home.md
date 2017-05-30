@@ -31,7 +31,7 @@ recovered if necessary.
 ### Releases and website
 - [How to create a release](release.md)
 - [Building the Website](website.md)
-- [resoruces.qooxdoo.org](resources.qooxdoo.org.md)
+- [resources.qooxdoo.org](resources.qooxdoo.org.md)
 
 ## Development resources
 - [eslintrc for qooxdoo development on the client](.eslinrc-browser) (Unfinished)
