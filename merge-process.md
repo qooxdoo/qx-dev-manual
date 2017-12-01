@@ -7,12 +7,15 @@ Acceptance of a PR is accomplished as follows:
 
 - If the PR proposer is a member of the commit team, he/she does not have voting
   rights on this PR.
-- A PR will be accepted when at least three business days have passed since the call 
-  for votes, and one of the following conditions has been met:
+- A PR will be accepted when at least three business days have passed since the reviews
+  began, and one of the following conditions has been met:
   - PR contains only documentation changes
-    - two assenting votes have been cast with no dissenting votes.
+    - two assenting votes (approvals) have been cast with no dissenting votes
+      (requests for changes).
   - PR contains any code changes
-    - five assenting votes have been cast with no dissenting votes.
+    - five assenting votes (approvals) have been cast with no dissenting votes
+      (requests for changes).
+- Any requests for changes prevent merging the PR.
 - If there are dissenting votes during the voting process, discussion will ensue.
   Either the dissenters will eventually assent, or changes will be made (new commits)
   which will clear prior votes, and a new vote can be requested.
