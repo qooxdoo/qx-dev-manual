@@ -8,7 +8,7 @@ Acceptance of a PR is accomplished as follows:
 - If the PR proposer is a member of the commit team, he/she does not have voting
   rights on this PR.
 - A PR will be accepted when at least three business days have passed since the reviews
-  began, and one of the following conditions has been met:
+  began<sup>*</sup>, and one of the following conditions has been met:
   - PR contains only documentation changes
     - two assenting votes (approvals) have been cast with no dissenting votes
       (requests for changes).
@@ -23,3 +23,7 @@ Acceptance of a PR is accomplished as follows:
   is the responsibility of the person merging the PR to cherry-pick this set of
   commits into the point release branch (possibly creating that point release
   branch if it did not previously exist).
+
+\* If all members of the qooxdoo core team have cast assenting votes for a PR, there is no longer a 
+need to wait for comments from other core members. Therefore, the PR may be accepted and merged
+immediately upon all core members' having cast assenting votes for the PR.
