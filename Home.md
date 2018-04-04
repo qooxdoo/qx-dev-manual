@@ -21,6 +21,7 @@ recovered if necessary.
 ### General development process
 - [Requesting changes](requesting-changes.md)
 - [Merge process](merge-process.md)
+- [Adding or removing someone from the qooxdoo team](team_membership.md)
 
 ### Framework
 - [How to create migration data](migration.md)
