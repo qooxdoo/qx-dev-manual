@@ -25,6 +25,6 @@ Acceptance of a PR is accomplished as follows:
   branch if it did not previously exist).
 
 \* If all members listed in the CODEOWNERS file have cast assenting votes for
-a PR, there is no longer a need to wait for comments from other core
+a PR, there is no longer a need to wait for comments from other
 members. Therefore, the PR may be accepted and merged immediately upon all
-core members' having cast assenting votes for the PR.
+members of CODEOWNERS having cast assenting votes for the PR.
