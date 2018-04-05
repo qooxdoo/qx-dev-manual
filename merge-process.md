@@ -24,6 +24,7 @@ Acceptance of a PR is accomplished as follows:
   commits into the point release branch (possibly creating that point release
   branch if it did not previously exist).
 
-\* If all members of the qooxdoo core team have cast assenting votes for a PR, there is no longer a 
-need to wait for comments from other core members. Therefore, the PR may be accepted and merged
-immediately upon all core members' having cast assenting votes for the PR.
+\* If all members listed in the CODEOWNERS file have cast assenting votes for
+a PR, there is no longer a need to wait for comments from other
+members. Therefore, the PR may be accepted and merged immediately upon all
+members of CODEOWNERS having cast assenting votes for the PR.
