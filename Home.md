@@ -22,6 +22,7 @@ recovered if necessary.
 - [Requesting changes](requesting-changes.md)
 - [Merge process](merge-process.md)
 - [Adding or removing someone from the qooxdoo team](team_membership.md)
+- [Making large changes - Incubators](incubators.md)
 
 ### Framework
 - [How to create migration data](migration.md)
