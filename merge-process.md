@@ -12,6 +12,10 @@ Acceptance of a PR is accomplished as follows:
   - PR contains only documentation changes
     - two assenting votes (approvals) have been cast with no dissenting votes
       (requests for changes).
+  - PR contains an urgent hotfix that is required to fix a critical regression. This is to
+    be used only in exceptional cases
+    - two assenting votes (approvals) have been cast with no dissenting votes
+      (requests for changes).   
   - PR contains any code changes
     - five assenting votes (approvals) have been cast with no dissenting votes
       (requests for changes).
